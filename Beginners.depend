@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1673192416 source:c:\users\my-pc\documents\beginners\main.cpp
+	<iostream>
+	"Addition.h"
+	"CreateAccount.h"
+	"LoginAccount.h"
+
+1673097341 c:\users\my-pc\documents\beginners\addition.h
+	<iostream>
+
+1673119206 c:\users\my-pc\documents\beginners\createaccount.h
+	<iostream>
+	<ctime>
+	<fstream>
+	<string>
+
+1673193466 c:\users\my-pc\documents\beginners\loginaccount.h
+	<iostream>
+	<fstream>
+	<string>
+
+1673121918 c:\users\my-pc\documents\beginners\checkbalance.h
+	<iostream>
+	"Checkbalance.h"
+	<string>
+
